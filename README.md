@@ -1,1 +1,1 @@
-# dsp_image___steganography
+# dsp__image__steganography
